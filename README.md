@@ -1,0 +1,1 @@
+# eic_training_blogging-platform
